@@ -1,4 +1,4 @@
-# Laboratory 1 - Reflection
+# Laboratory 2 - Reflection
 
 ## What I Learned
 
