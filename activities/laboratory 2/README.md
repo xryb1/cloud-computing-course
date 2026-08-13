@@ -4,7 +4,7 @@ This is a summary of the tasks and checkpoints required for **Laboratory Activit
 
 ---
 
-## 🎯 Mission Objectives
+## Mission Objectives
 
 - Access a cloud-based Linux environment using **KillerCoda**.
 - Learn basic navigation and system gathering commands.
@@ -13,7 +13,7 @@ This is a summary of the tasks and checkpoints required for **Laboratory Activit
 
 ---
 
-## 🛠️ Required Tasks & Checkpoints
+## Required Tasks & Checkpoints
 
 ### 1. Checkpoint 1: Access Linux & User Configuration
 
@@ -49,7 +49,7 @@ This is a summary of the tasks and checkpoints required for **Laboratory Activit
 
 ---
 
-## 📂 Expected Screenshots Folder
+## Expected Screenshots Folder
 
 All screenshots should be placed in:
 `activities/laboratory 2/screenshots/`
